@@ -1,3 +1,7 @@
-# YouTube Production System
+# YouTube Production System v0.4
 
-This project automates the production pipeline for faceless YouTube videos.
+This version introduces a pipeline architecture.
+
+Builders transform one artifact into another.
+
+project.json -> script.json -> storyboard.json -> image_prompts.json

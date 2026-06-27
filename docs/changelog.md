@@ -1,4 +1,1 @@
-# Changelog
-
-## v0.1
-- Initial scaffold
+v0.4 - Pipeline architecture

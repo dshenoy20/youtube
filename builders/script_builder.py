@@ -1,0 +1,2 @@
+class ScriptBuilder:
+    pass

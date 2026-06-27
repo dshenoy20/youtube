@@ -1,3 +1,15 @@
-# Architecture
+# Pipeline
 
-Idea -> Script -> Storyboard -> Image Prompts -> Images -> Video
+ProjectBuilder
+    ↓
+ScriptBuilder
+    ↓
+StoryboardBuilder
+    ↓
+ImagePromptBuilder
+    ↓
+ImageBuilder
+    ↓
+ThumbnailBuilder
+    ↓
+MetadataBuilder

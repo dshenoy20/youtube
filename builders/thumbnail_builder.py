@@ -1,0 +1,2 @@
+class ThumbnailBuilder:
+    pass

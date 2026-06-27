@@ -1,5 +1,9 @@
-# Roadmap
+# Milestones
 
-- v0.1 Project scaffold
-- v0.2 Project generator
-- v0.3 Script agent
+✓ Project Builder
+
+Next:
+- Script Builder
+- Storyboard Builder
+- Image Prompt Builder
+- Image Builder
